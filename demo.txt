@@ -1,1 +1,2 @@
 Adding some text into demo.txt in the hello-remote folder
+Making edits on the local computer
